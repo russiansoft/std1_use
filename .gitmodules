@@ -1,0 +1,3 @@
+[submodule "std1"]
+	path = std1
+	url = https://github.com/russiansoft/std1
